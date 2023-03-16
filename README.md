@@ -2,7 +2,7 @@
 		<h3>
 		  “It matters not how strait the gate, <br />
 			How charged with punishments the scroll, <br />
-			I am the master of my fate:, <br />
+			I am the master of my fate: <br />
 			I am the captain of my soul." <br />
 		</h3>
 </div>
