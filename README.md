@@ -7,7 +7,7 @@
 		</h3>
 </div>
 
-<hr />
+##
 
 * Hello from a lazy developer trying to overcome procrastination and actually getting something done
 
@@ -15,7 +15,7 @@
 
 * Also continuously ricing the hell out of my linux environment 
 
-<hr />
+##
 
 <div id="tech_stack" align="center">
 	<div id="languages" class="tech_stack_member">
@@ -49,7 +49,7 @@
 	</div>
 </div>
 
-<hr />
+##
 
 <div id="stats" align="center">
   <a href="https://github.com/BoredRyuzaki">
@@ -57,9 +57,8 @@
   </a>
 </div>
 
-<hr />
+##
 
 <div id="bof" align="center">
   <img src="assets/breath_of_fire.gif" alt="Ryu sleeping" />
 </div>
-
