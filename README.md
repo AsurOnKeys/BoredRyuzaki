@@ -1,19 +1,6 @@
-<div id="quote" align="center">
-		<h3>
-		  “It matters not how strait the gate, <br />
-			How charged with punishments the scroll, <br />
-			I am the master of my fate: <br />
-			I am the captain of my soul." <br />
-		</h3>
+<div id="header" align="center">
+Hello from a lazy developer trying to overcome procrastination and actually getting something done
 </div>
-
-##
-
-* Hello from a lazy developer trying to overcome procrastination and actually getting something done
-
-* Currently bashing my head against ML models, and also dabbling in the *systems* realm.
-
-* Also continuously ricing the hell out of my linux environment 
 
 ##
 
@@ -22,7 +9,6 @@
 		<h3 class="member_title"> Languages </h3>
 		<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge" />
 		<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge" />
-		<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge" alt="Rust Badge" />
 	</div>
 	<div id="databases" class="tech_stack_member">
 		<h3 class="member_title"> Databases </h3>
