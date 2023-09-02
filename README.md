@@ -37,14 +37,6 @@ Hello from a lazy developer trying to overcome procrastination and actually gett
 
 ##
 
-<div id="stats" align="center">
-  <a href="https://github.com/BoredRyuzaki">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoredRyuzaki&background=1E1E2E&currStreakLabel=F5E0DC&currStreakNum=F9E2AF&sideLabels=CDD6F4&sideNums=F5E0DC&dates=F5E0DC&" />
-  </a>
-</div>
-
-##
-
 <div id="bof" align="center">
   <img src="assets/breath_of_fire.gif" alt="Ryu sleeping" />
 </div>
